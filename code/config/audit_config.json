@@ -1,0 +1,16 @@
+{
+  "window": "requested_at",
+  "workflow_links": true,
+  "proximity_margin_min": 5.0,
+  "identity_lookback": false,
+  "ambiguous": "drop",
+  "post_cutoff_retention": false,
+  "activity_only_categories": [
+    "USER_PROFILE"
+  ],
+  "relaxed_colocation": true,
+  "reference_links": true,
+  "engine": "agent",
+  "max_queries": 256,
+  "case_order": "natural"
+}
